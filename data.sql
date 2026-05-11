@@ -14,6 +14,7 @@ insert into locations values(1,'Hyderabad','Telangana','India'),
  (14, 'Vizag', 'Andhra Pradesh', 'India'),
  (15, 'Kochi', 'Kerala', 'India');
 
+----
 
  INSERT INTO departments VALUES
 (10,'IT',1),
@@ -36,6 +37,7 @@ insert into locations values(1,'Hyderabad','Telangana','India'),
 (180,'Procurement',3),
 (190,'Legal',4),
 (200,'Strategy',5);
+
 
 select*from employees
 
