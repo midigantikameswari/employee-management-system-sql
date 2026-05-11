@@ -41,7 +41,7 @@ Database Name: company_DB
 
 ## Tables Used
 
-### emp
+### employees
 Stores employee details such as:
 - Employee ID
 - Employee Name
@@ -50,13 +50,13 @@ Stores employee details such as:
 - Gender
 - Department ID
 
-### dept
+### departments
 Stores department information such as:
 - Department ID
 - Department Name
 - Location ID
 
-### location
+### locations
 Stores location details such as:
 - Location ID
 - City Name
