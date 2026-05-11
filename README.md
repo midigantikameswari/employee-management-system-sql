@@ -4,9 +4,9 @@
 
 The Employee Management System is a SQL Server mini project developed to manage and analyze employee-related data using relational database concepts.
 This project contains multiple tables such as:
-- emp
-- dept
-- location
+- employees
+- departments
+- locations
 
 These tables are connected using primary key and foreign key relationships to perform different SQL operations and real-time data analysis.
 
